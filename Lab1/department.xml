@@ -1,0 +1,51 @@
+<company>
+	<department name="Development" depId="1">
+		<employee empId="001">
+			<lastName>Mardari</lastName>
+			<firstName>Alexandru</firstName>
+			<birthDate>16.06.1998</birthDate>
+			<position>Department Manager</position>
+			<skills>
+				<skill>Communication</skill>
+				<skill>Java</skill>
+			</skills>
+			<managerId>0</managerId>
+		</employee>
+		<employee empId="002">
+			<lastName>Doe</lastName>
+			<firstName>John</firstName>
+			<birthDate>17.05.1976</birthDate>
+			<position>Developer</position>
+			<skills>
+				<skill>Sleeps only 2 hours per day</skill>
+				<skill>Overtimes without concerns</skill>
+				<skill>Works for food</skill>
+			</skills>
+			<managerId>001</managerId>
+		</employee>
+	</department>
+	<department name="Accounting" depId="2">
+	<employee empId="003">
+			<lastName>Pupkin</lastName>
+			<firstName>Vasya</firstName>
+			<birthDate>15.10.2010</birthDate>
+			<position>Head of Department</position>
+			<skills>
+				<skill>Highly social</skill>
+				<skill>Great at math</skill>
+			</skills>
+			<managerId>0</managerId>
+		</employee>
+		<employee empId="004">
+			<lastName>Krueger</lastName>
+			<firstName>Freddy</firstName>
+			<birthDate>06.06.1966</birthDate>
+			<position>Manager</position>
+			<skills>
+				<skill>Intimidating</skill>
+				<skill>Doesn't dream</skill>
+			</skills>
+			<managerId>003</managerId>
+		</employee>
+	</department>
+</company>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<company>
+<department depId="1" name="Development">
+<employee empId="001">
+<lastName>Mardari</lastName>
+<firstName>Alexandru</firstName>
+<birthDate>16.06.1998</birthDate>
+<position>Department Manager</position>
+<skills>
+ <skill>Communication</skill>
+ <skill>Java</skill>
+ </skills>
+ <managerId>0</managerId>
+ </employee>
+ </department>
+ </company>
