@@ -1,0 +1,75 @@
+{
+  "company": {
+    "department": [
+      {
+        "-name": "Development",
+        "-depId": "1",
+        "employee": [
+          {
+            "-empId": "001",
+            "lastName": "Mardari",
+            "firstName": "Alexandru",
+            "birthDate": "16.06.1998",
+            "position": "Department Manager",
+            "skills": {
+              "skill": [
+                "Communication",
+                "Java"
+              ]
+            },
+            "managerId": "0"
+          },
+          {
+            "-empId": "002",
+            "lastName": "Doe",
+            "firstName": "John",
+            "birthDate": "17.05.1976",
+            "position": "Developer",
+            "skills": {
+              "skill": [
+                "Sleeps only 2 hours per day",
+                "Overtimes without concerns",
+                "Works for food"
+              ]
+            },
+            "managerId": "001"
+          }
+        ]
+      },
+      {
+        "-name": "Accounting",
+        "-depId": "2",
+        "employee": [
+          {
+            "-empId": "003",
+            "lastName": "Pupkin",
+            "firstName": "Vasya",
+            "birthDate": "15.10.2010",
+            "position": "Head of Department",
+            "skills": {
+              "skill": [
+                "Highly social",
+                "Great at math"
+              ]
+            },
+            "managerId": "0"
+          },
+          {
+            "-empId": "004",
+            "lastName": "Krueger",
+            "firstName": "Freddy",
+            "birthDate": "06.06.1966",
+            "position": "Manager",
+            "skills": {
+              "skill": [
+                "Intimidating",
+                "Doesn't dream"
+              ]
+            },
+            "managerId": "003"
+          }
+        ]
+      }
+    ]
+  }
+}
