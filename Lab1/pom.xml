@@ -33,5 +33,25 @@
     <artifactId>opencsv</artifactId>
     <version>4.5</version>
 </dependency>
+<dependency>
+    <groupId>sax</groupId>
+    <artifactId>sax</artifactId>
+    <version>2.0.1</version>
+</dependency>
+<dependency>
+    <groupId>jaxen</groupId>
+    <artifactId>jaxen</artifactId>
+    <version>1.1.6</version>
+</dependency>
+<dependency>
+    <groupId>com.googlecode.json-simple</groupId>
+    <artifactId>json-simple</artifactId>
+    <version>1.1.1</version>
+</dependency>
+<dependency>
+      <groupId>org.apache.poi</groupId>
+      <artifactId>poi-ooxml</artifactId>
+      <version>4.0.1</version>
+    </dependency>
 	</dependencies>
 </project>
